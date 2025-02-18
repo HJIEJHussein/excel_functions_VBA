@@ -4,6 +4,8 @@
 
 - [Project Overview](#project-overview)
 - [Tools](#tools)
+- [Inputs required](#inputs-required)
+- [Outputs](#outputs)
 
 ### Project Overview
 
