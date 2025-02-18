@@ -14,3 +14,18 @@
 
 - Excel : Used excel functions and pivot tables
 - VBA :   Used VBA to automate KPIS for example the coverage of finished and semi finished goods in days on the firm zone and in weeks on the forecast area.
+
+### Inputs required
+
+- The updated stock for the finished, semi_finished gooods and raw material
+- The BOMS linking RAW materials to finished goods and semi finished goods to finished goods
+- The lead times for each workstation
+- The orders on the firm zone (2 weeks in our example)
+- The forecast of the orders
+
+### Inputs required
+
+- A dynamic master plan schedule of level 3 for 3 workstations
+- A dynamic workstation scheduling for 3 workstations
+
+
