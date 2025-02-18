@@ -25,7 +25,7 @@
 - The orders on the firm zone (2 weeks in our example)
 - The forecast of the orders
 
-### Inputs required
+### Outputs
 
 - A dynamic master plan schedule of level 3 for 3 workstations
 - A dynamic workstation scheduling for 3 workstations
